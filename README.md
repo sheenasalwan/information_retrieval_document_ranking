@@ -8,7 +8,7 @@ Document ranking using MS MACRO dataset
 
 ## Model
 
-Model can be found [here](https://github.com/sheenasalwan/information_retrieval_document_ranking/src/model.ipynb)
+Model can be found [here](https://github.com/sheenasalwan/information_retrieval_document_ranking/blob/main/src/model.ipynb)
 
 ## References
 
