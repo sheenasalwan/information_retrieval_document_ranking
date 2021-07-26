@@ -4,7 +4,7 @@ Document ranking using MS MACRO dataset
 
 ## Data
 
-[**MSMARCO**](https://microsoft.github.io/msmarco/) passage ranking dataset available [here](https://github.com/microsoft/MSMARCO-Document-Ranking#msmarco-document-ranking)
+[**MSMARCO**](https://microsoft.github.io/msmarco/) passage ranking dataset available [here](https://github.com/microsoft/MSMARCO-Passage-Ranking)
 
 ## Model
 
