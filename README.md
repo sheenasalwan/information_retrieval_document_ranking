@@ -1,4 +1,4 @@
-# information\_retrieval\_document\_ranking
+# Information Retrieval Document Ranking
 
 Document ranking using MS MACRO dataset
 
